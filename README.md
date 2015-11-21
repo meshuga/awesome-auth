@@ -28,6 +28,7 @@ A curated list of awesome AuthN+Z libraries and resources.
 ## Authorization
 * [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) - wiki page about RBAC
 * [XACML](https://en.wikipedia.org/wiki/XACML) - XML-based access control markup language
+* [angular-permissions](https://github.com/Narzerus/angular-permission) authorization for AngularJS
 
 ## Access management
 * [ForgeRock OpenAM](https://forgerock.org/openam/) - has SSO, authZ, ...
