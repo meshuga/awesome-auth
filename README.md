@@ -20,6 +20,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 
 ### SSO
 * [Single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) - wiki page about SSO
+* [Central Authentication Service (CAS)](https://github.com/apereo/cas) - Open Source Enterprise Single Sign On
 * [Okta](https://www.okta.com/) - Identity and Access Management as a service; provides broad integrations
 * [Auth0](https://auth0.com/) - Identity and Access Management as a service
 * [PAC4J](http://www.pac4j.org/) - The security library for Java
@@ -48,6 +49,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 
 ## Access management
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
+* [IdentityServer](https://identityserver.io/) - .NET based IAM server
 * [casbin](https://casbin.org/en/) - Go authorization library
 * [OpenAM](https://forgerock.github.io/openam-community-edition/) - (discontinued), successor of OpenSSO
 * [WSO2 Identity Server](http://wso2.com/products/identity-server/) - also has SSO, authZ, ...
