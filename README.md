@@ -27,9 +27,9 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 
 #### OAuth
 * [RFC6749](https://tools.ietf.org/html/rfc6749) - RFC with OAuth2 definition
-* [IdentityServer3](https://github.com/IdentityServer/IdentityServer3) - OAuth server
 * [Spring Security OAuth](http://projects.spring.io/spring-security-oauth/) - OAuth implementation for Spring
 * [OAuth server for PHP](http://bshaffer.github.io/oauth2-server-php-docs/) - OAuth server for PHP
+* [ORY Hydra](https://www.ory.sh/hydra/) - Golang based OAuth and OIDC server
 * [JSON Web Tokens](http://jwt.io/) - All you need to know about JWT
 * [OAuth+JWT in microservices](https://www.youtube.com/watch?v=BdKmZ7mPNns) - Good video on how to use tokens in microservices
 * [OpenID Connect](http://openid.net/connect/) - Identity layer on top of OAuth
@@ -50,6 +50,11 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 ## Access management
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
 * [IdentityServer](https://identityserver.io/) - .NET based IAM server
+* [ORY](https://www.ory.sh/) - Open Source Identity Infrastructure and Services (Go based)
 * [casbin](https://casbin.org/en/) - Go authorization library
 * [OpenAM](https://forgerock.github.io/openam-community-edition/) - (discontinued), successor of OpenSSO
 * [WSO2 Identity Server](http://wso2.com/products/identity-server/) - also has SSO, authZ, ...
+
+## Other aggregators
+* [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of Keycloak related resources
+* [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - other auth list
