@@ -24,15 +24,17 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [Okta](https://www.okta.com/) - Identity and Access Management as a service; provides broad integrations
 * [Auth0](https://auth0.com/) - Identity and Access Management as a service
 * [PAC4J](http://www.pac4j.org/) - The security library for Java
+* [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
 
 #### OAuth
 * [RFC6749](https://tools.ietf.org/html/rfc6749) - RFC with OAuth2 definition
 * [Spring Security OAuth](http://projects.spring.io/spring-security-oauth/) - OAuth implementation for Spring
 * [OAuth server for PHP](http://bshaffer.github.io/oauth2-server-php-docs/) - OAuth server for PHP
-* [ORY Hydra](https://www.ory.sh/hydra/) - Golang based OAuth and OIDC server
+* [ORY Hydra](https://www.ory.sh/hydra/) - Go based OAuth and OIDC server
 * [JSON Web Tokens](http://jwt.io/) - All you need to know about JWT
 * [OAuth+JWT in microservices](https://www.youtube.com/watch?v=BdKmZ7mPNns) - Good video on how to use tokens in microservices
 * [OpenID Connect](http://openid.net/connect/) - Identity layer on top of OAuth
+* [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 
 #### SAML
 * [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
@@ -54,6 +56,9 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [casbin](https://casbin.org/en/) - Go authorization library
 * [OpenAM](https://forgerock.github.io/openam-community-edition/) - (discontinued), successor of OpenSSO
 * [WSO2 Identity Server](http://wso2.com/products/identity-server/) - also has SSO, authZ, ...
+
+## Tools
+* [Step CLI](https://smallstep.com/cli/) - A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. 
 
 ## Other aggregators
 * [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of Keycloak related resources
