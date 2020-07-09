@@ -23,6 +23,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [Central Authentication Service (CAS)](https://github.com/apereo/cas) - Open Source Enterprise Single Sign On
 * [Okta](https://www.okta.com/) - Identity and Access Management as a service; provides broad integrations
 * [Auth0](https://auth0.com/) - Identity and Access Management as a service
+* [FusionAuth](https://fusionauth.io/) - Identity and Access Management, either a service or self-hosted
 * [PAC4J](http://www.pac4j.org/) - The security library for Java
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
 
@@ -39,6 +40,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 #### SAML
 * [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
 * [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
+* [SAMLTest](https://samltest.id/) SAML Testing service
 
 ### Two-factor authentication
 * [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
@@ -63,3 +65,5 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 ## Other aggregators
 * [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of Keycloak related resources
 * [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - other auth list
+* [OAuth code libraries](https://oauth.net/code/)
+* [OIDC code libraries](https://openid.net/developers/libraries/)
