@@ -23,6 +23,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [Central Authentication Service (CAS)](https://github.com/apereo/cas) - Open Source Enterprise Single Sign On
 * [Okta](https://www.okta.com/) - Identity and Access Management as a service; provides broad integrations
 * [Auth0](https://auth0.com/) - Identity and Access Management as a service
+* [LoginRadius](https://www.loginradius.com/) - Identity and Access Management as a service
 * [FusionAuth](https://fusionauth.io/) - Identity and Access Management, either a service or self-hosted
 * [PAC4J](http://www.pac4j.org/) - The security library for Java
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
