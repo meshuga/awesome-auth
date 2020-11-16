@@ -27,6 +27,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [FusionAuth](https://fusionauth.io/) - Identity and Access Management, either a service or self-hosted
 * [PAC4J](http://www.pac4j.org/) - The security library for Java
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
+* [cidaas](https://www.cidaas.com) - Cloud Identity & Access Management (Identity and Access Management as a service)
 
 #### OAuth
 * [RFC6749](https://tools.ietf.org/html/rfc6749) - RFC with OAuth2 definition
