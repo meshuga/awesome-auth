@@ -49,6 +49,10 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites with 2FA info
 
+## Passwordless authentication
+* [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
+* [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
+
 ## Authorization
 * [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) - wiki page about RBAC
 * [XACML](https://en.wikipedia.org/wiki/XACML) - XML-based access control markup language
