@@ -44,6 +44,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
 * [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
 * [SAMLTest](https://samltest.id/) SAML Testing service
+* [SAMLkit](https://samlkit.com/) Development/testing entity
 
 ### Two-factor authentication
 * [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
