@@ -62,6 +62,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 ## Access management
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
 * [IdentityServer](https://identityserver.io/) - .NET based IAM server
+* [Topaz](https://www.topaz.sh) - Go-native open-source authorization system for cloud-native applications
 * [ORY](https://www.ory.sh/) - Open Source Identity Infrastructure and Services (Go based)
 * [casbin](https://casbin.org/en/) - Go authorization library
 * [OpenAM](https://forgerock.github.io/openam-community-edition/) - (discontinued), successor of OpenSSO
