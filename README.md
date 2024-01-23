@@ -60,6 +60,7 @@ A curated list of awesome AuthN+Z libraries, services and resources.
 * [angular-permissions](https://github.com/Narzerus/angular-permission) authorization for AngularJS
 
 ## Access management
+* [Authgear](https://www.authgear.com/) - Auhgear is a highly adaptable identity-as-a-service (IDaaS) platform for web and mobile applications.
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
 * [IdentityServer](https://identityserver.io/) - .NET based IAM server
 * [Topaz](https://www.topaz.sh) - Go-native open-source authorization system for cloud-native applications
